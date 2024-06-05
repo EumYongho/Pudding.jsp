@@ -47,13 +47,9 @@
     ![multi](https://github.com/EumYongho/Pudding.jsp/assets/155952960/4d008d11-29cb-4a37-bb77-1027e4299188)
       
 
-  * **서브 페이지**
-    * 도서를 클릭하면 상세 페이지로 이동합니다.
-       ![Yes24_sub](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/835c467f-d64c-404d-abda-4461dd1ea573)
-
-
 
 
 ## 개선 사항
-- 온라인 쇼핑몰의 기본 구조 확립
+- 온라인 쇼핑몰의 기본 구조를 확립시키기
 - DB 구조 확립
+- 더 나은 편리성 확립
