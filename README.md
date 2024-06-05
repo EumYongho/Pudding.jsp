@@ -38,8 +38,8 @@
    
     ![localhost_8080_Web09_pudding jsp - Chrome 2024-06-05 16-34-18](https://github.com/EumYongho/Pudding.jsp/assets/155952960/3d8ee1ea-33f9-43cb-976c-bd0fed23dd8a)
     
-  * **도서 목록 호출**
-    * `Open API`를 이용하여 도서 목록을 호출하고 이를 페이지에 출력합니다.
+  * **사이트 페이지 불러오기**
+    * `a href`를 이용하여 원래 사이트를 호출하고 이를 페이지에 출력합니다.
       ![Yes24_Ajax1](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/68e3778a-dd4e-46fa-a1a7-4be83644d006)
 
   * **멀티 페이지**
