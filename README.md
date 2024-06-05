@@ -1,6 +1,6 @@
 <h1 align="center">
   
-  [![main](https://github.com/EumYongho/Pudding.jsp/assets/155952960/fdb8fd16-92b0-48e1-8dd6-a6c8a95cf8ab)](https://github.com/EumYongho/Pudding.jsp/issues/1#issue-2334794617)
+  [![main](https://github.com/EumYongho/Pudding.jsp/assets/155952960/fdb8fd16-92b0-48e1-8dd6-a6c8a95cf8ab)]
 
 
 
