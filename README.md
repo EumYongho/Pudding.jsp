@@ -32,12 +32,12 @@
 
   #### 주요 기능 실행 화면
 
-  * **로그인 및 회원 정보 변경**
-    * 로그인하는 계정의 권한에 따라 버튼 출력을 다르게 하였습니다. 
+  * **회원가입**
+    * 로그인하는 계정의 권한에 따라 회원가입이 가능합니다. 
     * 관리자 계정의 경우 `관리자 페이지` 를 통해 `상품 관리`가 가능합니다.
    
-    ![Yes24_login_product_member](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/d22c54a4-f2ed-48b0-8073-ef4d9be48023)
-
+    https://github.com/EumYongho/Pudding.jsp/assets/155952960/f28d18c2-6b05-4d3b-ba4a-575c966c27e2
+    
   * **도서 목록 호출**
     * `Open API`를 이용하여 도서 목록을 호출하고 이를 페이지에 출력합니다.
       ![Yes24_Ajax1](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/68e3778a-dd4e-46fa-a1a7-4be83644d006)
