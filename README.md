@@ -5,7 +5,7 @@
 
 
 </h1>
-<h1 align="center">JSP 음식 쇼핑몰 프로젝트 - YES24</h1>
+<h1 align="center">JSP 음식 쇼핑몰 프로젝트 - Pudding</h1>
 <br/><br/>
 
 ## 목차
