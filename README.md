@@ -17,16 +17,15 @@
 
 
 ## 🚩 개요
-  - 프로젝트 목표 : Open API를 활용한 JSP 온라인 서점 프로젝트
-  - 개발 기간: 24/01/12 ~ 24/01/30
+  - 프로젝트 목표 :  JSP를 활용한 온라인 음식 쇼핑몰 프로젝트
+  - 개발 기간: 24/03/12 ~ 24/04/24
     
 ## 🔧 기술 스택
-  - API : `Kakao API`
-  - Language : `JAVA(11)`, `JavaScript(1.5)`
-  - Library & Framework : `Servlet(4.0)`
-  - Database : `Oracle(11g)`
+  - Language : `JAVA(11)`, `JavaScript(1.0)`
+  - Library & Framework : `Servlet(4.0)`, `Spring(5.2.7.RELEASE)`
+  - Database : `MySql(8.0)`
   - Target : `Web Browser`
-  - Tool : `Eclipse(4.29.0)`
+  - Tool : `STS`
   - ETC : `Git`
 
 ## 주요 기능 실행 화면
