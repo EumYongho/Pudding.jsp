@@ -1,6 +1,7 @@
 <h1 align="center">
   
-  ![Yes24_main - 복사본](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/89770185-f631-48e9-af81-919a64d3af1e)
+  ![Pudding_main - 복사본](![main](https://github.com/EumYongho/Pudding.jsp/assets/155952960/fdb8fd16-92b0-48e1-8dd6-a6c8a95cf8ab)
+)
 
 
 </h1>
