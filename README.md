@@ -40,7 +40,7 @@
     
   * **사이트 페이지 불러오기**
     * `a href`를 이용하여 원래 사이트를 호출하고 이를 페이지에 출력합니다.
-      ![GIFMaker_me](https://github.com/EumYongho/Pudding.jsp/assets/155952960/40b78f18-5067-47f1-a701-e6704e3a50af)
+      ![GIFMaker_me](https://github.com/EumYongho/Pudding.jsp/assets/155952960/c576f03b-446e-4ed1-8767-ba766a9ecf3f)
 
   * **멀티 페이지**
     * 멀티 페이지를 이용하여 테마에 따른 식품을 확인할 수 있습니다.
