@@ -44,7 +44,7 @@
 
   * **멀티 페이지**
     * 멀티 페이지를 이용하여 테마에 따른 식품을 확인할 수 있습니다.
-    * https://github.com/EumYongho/Pudding.jsp/issues/2#issue-2335011469
+    ![multi](https://github.com/EumYongho/Pudding.jsp/assets/155952960/4d008d11-29cb-4a37-bb77-1027e4299188)
       
 
   * **서브 페이지**
