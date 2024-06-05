@@ -43,9 +43,8 @@
       ![Yes24_Ajax1](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/68e3778a-dd4e-46fa-a1a7-4be83644d006)
 
   * **멀티 페이지**
-    * 멀티 페이지를 이용하여 종류별 도서를 확인할 수 있습니다.
-      ![Yes24_MultiPage1](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/6d6ad3c1-c7eb-4709-b7f6-2d36103148f9)
-      ![Yes24_MultiPage2](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/20dabab6-70d8-46bd-b4e4-5c783ad6c24f)
+    * 멀티 페이지를 이용하여 테마에 따른 식품을 확인할 수 있습니다.
+      
 
   * **서브 페이지**
     * 도서를 클릭하면 상세 페이지로 이동합니다.
