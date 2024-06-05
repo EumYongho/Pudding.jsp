@@ -36,7 +36,7 @@
     * 로그인하는 계정의 권한에 따라 회원가입이 가능합니다. 
     * 관리자 계정의 경우 `관리자 페이지` 를 통해 `상품 관리`가 가능합니다.
    
-    https://github.com/EumYongho/Pudding.jsp/assets/155952960/f28d18c2-6b05-4d3b-ba4a-575c966c27e2
+    ![localhost_8080_Web09_pudding jsp - Chrome 2024-06-05 16-34-18](https://github.com/EumYongho/Pudding.jsp/assets/155952960/3d8ee1ea-33f9-43cb-976c-bd0fed23dd8a)
     
   * **도서 목록 호출**
     * `Open API`를 이용하여 도서 목록을 호출하고 이를 페이지에 출력합니다.
